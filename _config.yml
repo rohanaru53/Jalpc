@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Welcome to my world
+title: Welcome
 description: Get to know me better here
 keywords: Rohan,product manager,github,gh-pages
 baseurl: /homepage # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
@@ -10,15 +10,15 @@ url: http://rohanaru53.github.io/homepage  # url should be 'http://<github_usern
 img_path: /homepage/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
-author: Rohan Singh # change following line to your infomation.
+author:  # change following line to your infomation.
   name: GitHub  # Be used at blog posts' author.
   first_name: Rohan  # Be used at index page about me section.
-  last_name: Rohan  # Be used at index page about me section.
+  last_name: Singh  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: rohanaru53  # Leave blank if you don't have now
-  linkedin_id: rohansingh13 # Leave blank if you don't have now
-  facebook_username: rohan.singh13  # Leave blank if you don't have now
-  twitter_username: rohanaru53  # Leave blank if you don't have now
+  linkedin_id: rohan.singh13 # Leave blank if you don't have now
+  facebook_username: jiakunnj  # Leave blank if you don't have now
+  twitter_username: jiakun614  # Leave blank if you don't have now
   email: rs3874@columbia.edu  # Leave blank if you don't have now
   cv:   # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
@@ -28,7 +28,7 @@ author: Rohan Singh # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: I am a masters student in Management Science and Engineering at Columbia University.   # Describe yourself.
+  desc: I am a masters student in Management Science and Engineering at Columbia University.  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
@@ -37,7 +37,7 @@ disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your c
 # analytics
 ## google analytics
 ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
-  #id: UA-93473370-3
+  id: UA-93473370-3
 
 ## google optimize
 go:
@@ -67,4 +67,3 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-
