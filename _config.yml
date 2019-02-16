@@ -2,7 +2,7 @@
 
 # Website settings
 title: Welcome to my world
-description: Get to know me better here.
+description: Get to know me better here
 keywords: Rohan,product manager,github,gh-pages
 baseurl: /homepage # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: http://rohanaru53.github.io/homepage  # url should be 'http://<github_username>.github.io/homepage' as before
