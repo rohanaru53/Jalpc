@@ -1,10 +1,10 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Welcome to my world!
+title: Welcome to my world
 description: Get to know me better here.
 keywords: Rohan,product manager,github,gh-pages
-baseurl:  /homepage # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+baseurl: /homepage # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: http://rohanaru53.github.io/homepage  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
 img_path: /homepage/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
