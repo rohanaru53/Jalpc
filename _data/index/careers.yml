@@ -1,29 +1,89 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: Rent the Runway
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: <hr/>Leveraging 200k+ customer reviews to extract judgments and sentiments on fashion products to help the customer make a well-informed decision while renting a product
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Aug. 2018 - Apr. 2019
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Product Manager and Student Consultant (Part-Time)
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: AssetCast
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: <hr/>Implementing quantitative tools for asset price optimization and risk management in the real estate market.<br/><hr/>
+            Web scrapped and cleaned data of 15k+ apartment sales from the StreetEasy website, using Python and AppleScript <br/><hr/>
+            Built machine learning models using R, to predict real estate market absorption and future apartments' selling price
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Aug. 2018 - Apr. 2019
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Data Science Student Consultant (Part-Time)
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Columbia University
+    i18n: company_b
+  desc:
+    detail: <hr/>Pursuing my masters in Managment Science and Engineering at Columbia University in New York.<br/> <hr/>
+            It is a joint  M.S. program offered by the department of Industrial Engineering and Operations Research in conjuction with Columbia Business School
+    i18n: company_b_desc
+  date:
+    detail: Aug. 2018 - Dec. 2019 (Expected)
+    i18n: company_b_date
+  job:
+    detail: Graduate Student
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: PayPal
+    i18n: company_b
+  desc:
+    detail: <hr/>I worked on the Incentives Platform, which manages all types of offers/incentives provided by PayPal. This included an ecosystem of microservices and async daemons handling the lifecycle and redemption of all incentives/offers given to a user. 
+    i18n: company_b_desc
+  date:
+    detail: Jul. 2017 - Jul. 2018 
+    i18n: company_b_date
+  job:
+    detail: Software Engineer
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: PayPal 
+    i18n: company_b
+  desc:
+    detail: <hr/>I designed and developed a batch process in Java using Spring which post processes offers created on the Incentives platform <br><hr/>
+            API call to create offers became faster by 20% through filtering of offers marked expired by the batch process.
+    i18n: company_b_desc
+  date:
+    detail: Jan. 2017 - Jun. 2017
+    i18n: company_b_date
+  job:
+    detail: Software Engineering Intern
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Birla Institute of Technology and Science (BITS Pilani)
+    i18n: company_b
+  desc:
+    detail: <hr/>Completed my B.S. in Computer Science and M.Sc. in Biological Science from BITS Pilani,India.
+    i18n: company_b_desc
+  date:
+    detail: Aug. 2012 - Jun. 2017
+    i18n: company_b_date
+  job:
+    detail: Undergrauate Student
     i18n: company_b_job
   icon: fa-plus-square

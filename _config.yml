@@ -1,8 +1,8 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Welcome
-description: Get to know me better here
+title: Hello World
+description: Welcome to my world.
 keywords: Rohan,product manager,github,gh-pages
 baseurl: /homepage # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: http://rohanaru53.github.io/homepage  # url should be 'http://<github_username>.github.io/homepage' as before
