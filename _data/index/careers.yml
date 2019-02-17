@@ -12,7 +12,7 @@
   job:
     detail: Product Manager and Student Consultant (Part-Time)
     i18n: company_a_job
-  icon: fa-plus-square
+  icon: /static/assets/img/rtr.jpg
 
 - name:
     detail: AssetCast
@@ -28,7 +28,7 @@
   job:
     detail: Data Science Student Consultant (Part-Time)
     i18n: company_b_job
-  icon: fa-plus-square
+  icon: /static/assets/img/assetcast.jpg
 
 - name:
     detail: Columbia University
@@ -43,7 +43,7 @@
   job:
     detail: Graduate Student
     i18n: company_b_job
-  icon: fa-plus-square
+  icon: /static/assets/img/columbia.png
 
 - name:
     detail: PayPal
@@ -57,7 +57,7 @@
   job:
     detail: Software Engineer
     i18n: company_b_job
-  icon: fa-plus-square
+  icon: /static/assets/img/paypal.jpg
 
 - name:
     detail: PayPal 
@@ -72,7 +72,7 @@
   job:
     detail: Software Engineering Intern
     i18n: company_b_job
-  icon: fa-plus-square
+  icon: /static/assets/img/paypal.jpg
 
 - name:
     detail: Birla Institute of Technology and Science (BITS Pilani)
@@ -86,4 +86,4 @@
   job:
     detail: Undergrauate Student
     i18n: company_b_job
-  icon: fa-plus-square
+  icon: /static/assets/img/bits.png
