@@ -1,9 +1,9 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Hello World
+title: Hello!
 description: Welcome to my world.
-keywords: Rohan,product manager,github,gh-pages
+keywords: Rohan,product manager,github,gh-pages,data science
 baseurl: /homepage # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: http://rohanaru53.github.io/homepage  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
@@ -11,14 +11,14 @@ img_path: /homepage/static/assets/img/blog  # url should be '/homepage/static/as
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
-  name: GitHub  # Be used at blog posts' author.
+  name: Rohan  # Be used at blog posts' author.
   first_name: Rohan  # Be used at index page about me section.
   last_name: Singh  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/myavatar.jpg  # upload your avatar at directory and edit it.
   github_username: rohanaru53  # Leave blank if you don't have now
   linkedin_id: rohan.singh13 # Leave blank if you don't have now
-  facebook_username: jiakunnj  # Leave blank if you don't have now
-  twitter_username: jiakun614  # Leave blank if you don't have now
+  facebook_username: rohan.singh1310  # Leave blank if you don't have now
+  twitter_username: rohanaru53  # Leave blank if you don't have now
   email: rs3874@columbia.edu  # Leave blank if you don't have now
   cv:   # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
