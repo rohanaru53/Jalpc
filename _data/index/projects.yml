@@ -1,22 +1,22 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
+- name: Predicting the likelihood of processing an H1-B Application
   i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  gh_user: rohanaru53
+  repo: H1-B-Processing-Likelihood
+  img: /static/assets/img/landing/h1b.jpg
+  desc: Built a model to predict the likelihood of the LCA application (a precursor to the H1-B application) being accepted based on parameters USCIS allows as a part of the application.
 
-- name: Python
+- name: Flame Systems - Co-founder and Technical Product lead
   i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+  gh_user: rohanaru53
+  repo: Flame-Systems
+  img: /static/assets/img/landing/flamesystems.png
+  desc: Worked on a start-up idea to build a smart inventory management application for small and midincome Businessmen in India which uses data analytics to provide insights for their business upliftment.
 
-- name: Google
+- name: Image Segmentation using GMM
   i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+  img: /static/assets/img/landing/imageseg.jpg
+  desc: Worked as a summer intern at Concordia university,Montreal Canada.Developed a machine learning algorithm in Matlab for image segmentation using Gaussian Mixture Models and the Expectation- Minimization Algorithm.
+
