@@ -1,6 +1,21 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Tradewind Markets
+    i18n: company_a
+  desc:
+    detail: <hr/>Redesigned the operations tool based on customer feedback to improve the UX and add new features<br/><hr/>
+            Built a dashboard for Product Managers to automatically track the KPIs of VaultChain Gold and Silver daily<br/><hr/>
+            Conducted market research and presented a new alternative asset opportunity on blockchain to the executive team
+    i18n: company_a_desc
+  date:
+    detail: Jun. 2019 - Aug. 2019
+    i18n: company_a_date
+  job:
+    detail: Product Management Intern
+    i18n: company_a_job
+  icon: /static/assets/img/twm.jpg
+- name:
     detail: Rent the Runway
     i18n: company_a
   desc:
