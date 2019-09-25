@@ -9,7 +9,7 @@
             Conducted market research and presented a new alternative asset opportunity on blockchain to the executive team
     i18n: company_a_desc
   date:
-    detail: Jun. 2019 - Aug. 2019
+    detail: Jun. 2019 - Present
     i18n: company_a_date
   job:
     detail: Product Management Intern
@@ -19,7 +19,7 @@
     detail: Rent the Runway
     i18n: company_a
   desc:
-    detail: <hr/>Leveraging 200k+ customer reviews to extract judgments and sentiments on fashion products to help the customer make a well-informed decision while renting a product
+    detail: <hr/>Leveraged 200k+ customer reviews to extract judgments and sentiments on fashion products to help the customer make a well-informed decision while renting a product
     i18n: company_a_desc
   date:
     detail: Aug. 2018 - Apr. 2019
@@ -33,7 +33,7 @@
     detail: AssetCast
     i18n: company_b
   desc:
-    detail: <hr/>Implementing quantitative tools for asset price optimization and risk management in the real estate market.<br/><hr/>
+    detail: <hr/>Implemented quantitative tools for asset price optimization and risk management in the real estate market.<br/><hr/>
             Web scrapped and cleaned data of 15k+ apartment sales from the StreetEasy website, using Python and AppleScript <br/><hr/>
             Built machine learning models using R, to predict real estate market absorption and future apartments' selling price
     i18n: company_b_desc
@@ -50,7 +50,7 @@
     i18n: company_b
   desc:
     detail: <hr/>Pursuing my masters in Managment Science and Engineering at Columbia University in New York.<br/> <hr/>
-            It is a joint  M.S. program offered by the department of Industrial Engineering and Operations Research in conjuction with Columbia Business School
+            It is a Masters program offered by Columbia Engineering in conjuction with Columbia Business School
     i18n: company_b_desc
   date:
     detail: Aug. 2018 - Dec. 2019 (Expected)
@@ -93,7 +93,7 @@
     detail: Birla Institute of Technology and Science (BITS Pilani)
     i18n: company_b
   desc:
-    detail: <hr/>Completed my B.S. in Computer Science and M.Sc. in Biological Science from BITS Pilani,India.
+    detail: <hr/>Completed my B.S. in Computer Science and M.Sc. in Biological Science from BITS Pilani,India. Its Magic!
     i18n: company_b_desc
   date:
     detail: Aug. 2012 - Jun. 2017
